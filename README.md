@@ -1,4 +1,5 @@
 Text Analysis URL Scraper
+
 Project Description
 This project is a Text Analysis URL Scraper that extracts text content from a list of URLs, analyzes it for sentiment and readability metrics, and generates a detailed Excel report. It is ideal for processing online content, such as articles or blogs, to evaluate their linguistic and sentiment characteristics.
 

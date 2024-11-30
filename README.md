@@ -23,6 +23,20 @@ This project is a **Text Analysis URL Scraper** that extracts text content from 
 ### Excel Output:
 - Saves all results to an `Output.xlsx` file with columns detailing every metric.
 
+ ## Acknowledgments:
+   - This section credits the libraries and tools used in the project, including `requests`, `BeautifulSoup`, `TextBlob`, `readability`, and `openpyxl`.
+   - It also acknowledges the open-source community for enabling such projects.
+
+ ## Future Work:
+   - Ideas for enhancing the project in the future, including:
+     - Handling dynamic content better.
+     - Using more advanced sentiment analysis models.
+     - Expanding multilingual support.
+     - Building a user interface.
+     - Integrating with APIs for broader data scraping.
+     - Adding advanced readability analysis techniques.
+
+
 ## Prerequisites
 ### Python Version:
 - Ensure Python 3.7 or later is installed.
@@ -34,18 +48,6 @@ Install the following libraries using pip:
 pip install pandas requests beautifulsoup4 textblob openpyxl readability
 ```
 
- ##Acknowledgments:
-   - This section credits the libraries and tools used in the project, including `requests`, `BeautifulSoup`, `TextBlob`, `readability`, and `openpyxl`.
-   - It also acknowledges the open-source community for enabling such projects.
-
- ##Future Work:
-   - Ideas for enhancing the project in the future, including:
-     - Handling dynamic content better.
-     - Using more advanced sentiment analysis models.
-     - Expanding multilingual support.
-     - Building a user interface.
-     - Integrating with APIs for broader data scraping.
-     - Adding advanced readability analysis techniques.
 
 
 

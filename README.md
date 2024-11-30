@@ -34,12 +34,10 @@ Install the following libraries using pip:
 pip install pandas requests beautifulsoup4 textblob openpyxl readability
 ```
 
-
-1. **Acknowledgments**:
+ **Acknowledgments**:
    - This section credits the libraries and tools used in the project, including `requests`, `BeautifulSoup`, `TextBlob`, `readability`, and `openpyxl`.
    - It also acknowledges the open-source community for enabling such projects.
-
-2. **Future Work**:
+ **Future Work**:
    - Ideas for enhancing the project in the future, including:
      - Handling dynamic content better.
      - Using more advanced sentiment analysis models.
